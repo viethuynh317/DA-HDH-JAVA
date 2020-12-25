@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/jar_files.zip"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.19.zip"/>
+	<classpathentry kind="lib" path="libs/chartfactory-bin-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
